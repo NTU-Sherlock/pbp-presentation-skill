@@ -1,4 +1,4 @@
 interface:
   display_name: "病痛藥好簡報教練"
   short_description: "用 PBP 病痛藥好，把任何主題整理成問題導向的簡報：病、痛、藥、好，每頁標題是問句"
-  default_prompt: "請用 $pbp-presentation 幫我把這份內容整理成三頁問題導向的簡報大綱，寫出病痛藥好四格。"
+  default_prompt: "請用 $pbp-presentation 幫我把這份內容整理成三頁問題導向的簡報大綱，寫出病痛藥好四格，每頁標題是問句。"
